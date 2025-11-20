@@ -17,11 +17,10 @@ Algorithm
 6.	Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
 program
+```asm
 
 import numpy as np
-
 import matplotlib.pyplot as plt
-```asm
 Am = 4.9
 Ac = 9.8
 fm = 677
