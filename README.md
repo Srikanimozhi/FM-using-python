@@ -23,41 +23,23 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 Am = 4.9
-
 Ac = 9.8
-
 fm = 677
-
 fc = 6770
-
 fs = 67700
-
 kf = 100
-
 t = np.arange(0, 2/fm, 1/fs)
-
 m = Am * np.cos(2 * np.pi * fm * t)
-
 plt.subplot(3, 1, 1)
-
 plt.plot(t, m)
-
 c = Ac * np.cos(2 * np.pi * fc * t)
-
 plt.subplot(3, 1, 2)
-
 plt.plot(t, c)
-
 integral_m = np.cumsum(m) / fs
-
 s = Ac * np.cos(2 * np.pi * fc * t + 2 * np.pi * kf * integral_m)
-
 plt.subplot(3, 1, 3)
-
 plt.plot(t, s)
-
 plt.tight_layout()
-
 plt.show()
 
 Output
