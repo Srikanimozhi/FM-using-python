@@ -21,7 +21,7 @@ program
 import numpy as np
 
 import matplotlib.pyplot as plt
-
+```asm
 Am = 4.9
 Ac = 9.8
 fm = 677
@@ -41,7 +41,7 @@ plt.subplot(3, 1, 3)
 plt.plot(t, s)
 plt.tight_layout()
 plt.show()
-
+```
 Output
 <img width="627" height="469" alt="image" src="https://github.com/user-attachments/assets/0b339047-f9ff-4a2f-9ff3-19b7747f4fc3" />
 
