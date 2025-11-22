@@ -45,8 +45,8 @@ Output
 <img width="627" height="469" alt="image" src="https://github.com/user-attachments/assets/0b339047-f9ff-4a2f-9ff3-19b7747f4fc3" />
 
 calculation
-![WhatsApp Image 2025-10-23 at 22 45 58_71bce3db](https://github.com/user-attachments/assets/af407bb0-8d6d-4227-87ea-e8bb8cd6fc20)
 
+![WhatsApp Image 2025-11-22 at 12 43 05_42b50a6c](https://github.com/user-attachments/assets/293233af-d5cb-4215-af7d-5ed40336d89f)
 
 
 Result
