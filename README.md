@@ -46,7 +46,8 @@ Output
 
 calculation
 
-![WhatsApp Image 2025-11-22 at 12 43 05_42b50a6c](https://github.com/user-attachments/assets/293233af-d5cb-4215-af7d-5ed40336d89f)
+![WhatsApp Image 2025-11-28 at 14 34 55_322257dc](https://github.com/user-attachments/assets/f5f53701-3017-4098-884c-2aaa1878f9c2)
+
 
 
 Result
